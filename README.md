@@ -29,11 +29,9 @@ Open Source Creator
 - ⚡ Daily workflow: Write scripts to automate repetitive dev tasks
 - 🎮 Hobby: Open-source contribution, play Minecraft!
 
-[stacks](https://skillicons.dev/icons?i=c,cpp,python,powershell,git,vscode&theme=dark)
+![stacks](https://skillicons.dev/icons?i=c,cpp,python,powershell,git,vscode&theme=dark)
 
 ### ⭐ Github Stats
-<img width="45%" src="https://github-readme-stats.vercel.app/api?FishgameStudio=xxx&theme=light">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?FishgameStudio=xxx&layout=compact">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FishgameStudio&theme=tokyonight"/>
 
 ### 📫 Contact
