@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Hello,I'm FishgameStudio&&fontSize=48&animation=twinkling" width="900"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Hello,%20I'm%20FishgameStudio&fontSize=48&animation=twinkling" width="900"/>
 </p>
 
 <!--
@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
+
 Open Source Creator
 > I'm passionate about programming, programming is really fun!
 </div>
@@ -35,4 +36,4 @@ Open Source Creator
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FishgameStudio&theme=tokyonight"/>
 
 ### 📫 Contact
-- Email: popxh@outlook.com
+- Email: [popxh@outlook.com](mailto:popxh@outlook.com)
