@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&text=Hello,%20I'm%20FishgameStudio&fontSize=48&animation=twinkling" width="900"/>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=10000&color=1BC313&center=true&vCenter=true&repeat=false&width=435&lines=Hi%F0%9F%91%8B+This+is+FishgameStudio)](https://git.io/typing-svg)
 
 <!--
 **FishgameStudio/FishgameStudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
