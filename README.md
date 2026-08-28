@@ -22,13 +22,13 @@ Open Source Creator
 </div>
 
 ### 👋 About Me
-- 🖥️ Main tech stack: C, C++, Python, PowerShell, Git
+- 🖥️ Main tech stack: C, C++, Python, PowerShell, Git, Rust, Markdown
 - 🎯 Focus area: CLI tool development, script automation
 - 📚 Currently learning: SQL syntax, frontend coding
 - ⚡ Daily workflow: Write scripts to automate repetitive dev tasks
 - 🎮 Hobby: Open-source contribution, play Minecraft!
 
-![stacks](https://skillicons.dev/icons?i=c,cpp,python,powershell,git,vscode&theme=dark)
+![stacks](https://skillicons.dev/icons?i=c,cpp,python,powershell,git,vscode,rust,markdown&theme=dark)
 
 ### ⭐ Github Stats
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FishgameStudio&theme=tokyonight"/>
